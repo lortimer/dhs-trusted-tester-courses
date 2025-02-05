@@ -1,6 +1,7 @@
 # Section 508 What is it and Why it is Important
 
-DEFINITION: ICT = "Information and Communication Technology"
+ICT
+: Information and Communication Technology
 
 The US government is required to meet the standards of Section 508 of the Rehabilitation Act when it develops, procures, maintains, or uses ICT. 
 
@@ -48,7 +49,8 @@ Functional performance criteria support the needs of users with:
 
 They are used when the hardware and software standards don't explicitly cover something.
 
-DEFINITION: Equivalent Facilitation = Using an alternate design or technology that results in "substantially equivalent or greater accessibility and usability" by users with disabilities THAN WOULD BE PROVIDED BY the hardware or software requirements.
+Equivalent Facilitation
+: Using an alternate design or technology that results in "substantially equivalent or greater accessibility and usability" by users with disabilities THAN WOULD BE PROVIDED BY the hardware or software requirements.
 
 ### Web Content Accessibility Guidelines (WCAG) 2.0
 
@@ -58,7 +60,8 @@ Section 508 uses WCAG 2.0 levels A and AA as a universal standard.
 
 All types of public-facing content and 9 categories of non-public facing content must be accessible.
 
-DEFINITION: Content = "all forms of electronic information and data"
+Content
+: all forms of electronic information and data
 
 The revised standards cover documents better.
 
@@ -117,7 +120,8 @@ This is all basic stuff from CPACC training talking about why it's important to 
 
 ### Assistive Technologies
 
-DEFINITION: Assistive Technology (AT) = "AT includes hardware or software that enables a person with a disability to use ICT"
+Assistive Technology (AT)
+: AT includes hardware or software that enables a person with a disability to use ICT
 
 screen readers, magnifiers, braille display, color changes, voice controls, alternative inputs.
 
